@@ -1,0 +1,2 @@
+Para fins de estudos desafiei-me para o desenvolvimento de uma API de recursos do jogo Dofus.
+Com a utilização de Web Scrapping com Puppeteer irei extrair informações dos recursos presentes no próprio site do Dofus.
